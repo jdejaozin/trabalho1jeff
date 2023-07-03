@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrabalhoPDM</string>
+    <string name="exerc_cio_1">Exercício 1</string>
+    <string name="exerc_cio_2">Exercício 2</string>
+    <string name="exerc_cio_3">Exercício 3</string>
+    <string name="exerc_cio_4">Exercício 4</string>
+    <string name="exerc_cio_5">Exercício 5</string>
+    <string name="exerc_cio_6">Exercício 6</string>
+    <string name="exerc_cio_7">Exercício 7</string>
+    <string name="kotlin_math">Kotlin.Math()</string>
+</resources>
